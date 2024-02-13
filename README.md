@@ -1,3 +1,3 @@
 # Dk_demo
 This is my first repo<br>
-author-dk
+author-dk(dibash khatiwada)
